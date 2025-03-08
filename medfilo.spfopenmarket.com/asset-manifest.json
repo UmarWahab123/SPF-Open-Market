@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ab137c3.css",
+    "main.js": "/static/js/main.a9b19208.js",
+    "static/media/passportimg.png": "/static/media/passportimg.cad3a778adfdd5118f0c.png",
+    "static/media/verification.png": "/static/media/verification.d586be2d49f724e10f70.png",
+    "static/media/Premiumicon.png": "/static/media/Premiumicon.161a1753d42c83563113.png",
+    "static/media/Standardicon.png": "/static/media/Standardicon.2ae73bcfc7f5dc2e8a1e.png",
+    "static/media/Expressicon.png": "/static/media/Expressicon.eddd2e62f06182b56fa9.png",
+    "static/media/PendingAssignmenticon.png": "/static/media/PendingAssignmenticon.1a7815ead3c5eb51d409.png",
+    "static/media/no-image-available.png": "/static/media/no-image-available.5f09172c692a365b3843.png",
+    "static/media/vaccination.png": "/static/media/vaccination.2903cc0f5f434c603759.png",
+    "static/media/antibody.png": "/static/media/antibody.30b3cb50d022f6be8d2f.png",
+    "static/media/medFiloLogoNew.svg": "/static/media/medFiloLogoNew.be195b1285095cf02f8bfeaadcc4ceea.svg",
+    "static/media/covid.png": "/static/media/covid.a0771a1d51180d0a09ac.png",
+    "static/media/Appstoreicon.svg": "/static/media/Appstoreicon.b0ffae669fb45657e48c72792343854d.svg",
+    "static/media/google-play-badge-logo.svg": "/static/media/google-play-badge-logo.43450edc3252606b6b3a9b9371267972.svg",
+    "static/media/idCard.svg": "/static/media/idCard.8cc6bcbccb477a5dd7b2e46ed5a7aa25.svg",
+    "static/media/eraser.svg": "/static/media/eraser.d89dc579fc306fe1a8bdd3706522045c.svg",
+    "static/media/gallery.svg": "/static/media/gallery.2b8966d613046d49a43b49282b30fef9.svg",
+    "static/media/edit.svg": "/static/media/edit.2bbbf5ee12515d71e99df7108e7320cf.svg",
+    "static/media/circle.svg": "/static/media/circle.a21cacc9e0de2c19650e5d304938064f.svg",
+    "static/media/reject.svg": "/static/media/reject.af89ebcaa383fde6ccaac4dc72ebb643.svg",
+    "static/media/idea.svg": "/static/media/idea.51c9006ac3c365c5a0cf55d1c11071bd.svg",
+    "index.html": "/index.html",
+    "static/media/tick.svg": "/static/media/tick.5f81467be0d649c5827039b54c055d04.svg",
+    "static/media/check-color-circle.svg": "/static/media/check-color-circle.43ce781751d145ba13041fa295c7a96c.svg",
+    "main.4ab137c3.css.map": "/static/css/main.4ab137c3.css.map",
+    "main.a9b19208.js.map": "/static/js/main.a9b19208.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab137c3.css",
+    "static/js/main.a9b19208.js"
+  ]
+}

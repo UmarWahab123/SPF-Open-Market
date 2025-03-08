@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+  font-family: Lora-VariableFont;
+  src: url('../fonts/Lora-VariableFont_wght.ttf');
+
+}
+@font-face {
+  font-family: Roboto-Regular;
+  src: url('../fonts/Roboto-Regular.ttf');
+}
+
+
